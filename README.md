@@ -47,17 +47,13 @@ I made this for my own use as an all-in-one app for random stuff. Don't know if 
 - **Unit Converter** – Convert between different units
 - **Device Info** – View device and battery information
 
-<!-- 
 ## Screenshots
 
 <div style="display: flex; justify-content: space-around; gap: 10px;">
-  <img src="./screenshot/ss1.png" width="200">
-  <img src="./screenshot/ss2.png" width="200">
-  <img src="./screenshot/ss3.png" width="200">
-  <img src="./screenshot/ss4.png" width="200">
-  <img src="./screenshot/ss5.png" width="200">
-  <img src="./screenshot/ss6.png" width="200">
-</div> -->
+  <img src="./screenshot/screenshot1.png" width="200">
+  <img src="./screenshot/screenshot2.png" width="200">
+  <img src="./screenshot/screenshot3.png" width="200">
+</div>
 
 ## Tech Stack
 
