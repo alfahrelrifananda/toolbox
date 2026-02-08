@@ -4,17 +4,17 @@ A utility app for generating secure passwords, random identities, fake data, and
 
 I made this for my own use as an all-in-one app for random stuff. Don't know if it'll be useful for you, but feel free to use it if it is.
 
-[![Latest release](https://img.shields.io/github/v/release/alfahrelrifananda/toolbox-app?style=for-the-badge)](https://github.com/alfahrelrifananda/toolbox-app/releases)
+[![Latest release](https://img.shields.io/github/v/release/alfahrelrifananda/toolbox?style=for-the-badge)](https://github.com/alfahrelrifananda/toolbox/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![License](https://img.shields.io/github/license/alfahrelrifananda/toolbox-app?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/alfahrelrifananda/toolbox?style=for-the-badge)](LICENSE)
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/alfahrelrifananda/toolbox-app/releases)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/alfahrelrifananda/toolbox-app/releases)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alfahrelrifananda/toolbox-app/releases)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alfahrelrifananda/toolbox-app/releases)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/alfahrelrifananda/toolbox-app/releases)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/alfahrelrifananda/toolbox/releases)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/alfahrelrifananda/toolbox/releases)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alfahrelrifananda/toolbox/releases)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alfahrelrifananda/toolbox/releases)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/alfahrelrifananda/toolbox/releases)
 
-[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfahrelrifananda/toolbox-app/releases)
+[![Get it on GitHub](https://img.shields.io/badge/Get%20it%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfahrelrifananda/toolbox/releases)
 
 ## Why Toolbox?
 
@@ -75,8 +75,8 @@ I made this for my own use as an all-in-one app for random stuff. Don't know if 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alfahrelrifananda/toolbox-app.git
-   cd toolbox-app
+   git clone https://github.com/alfahrelrifananda/toolbox.git
+   cd toolbox
    ```
 
 2. Install dependencies:
@@ -130,7 +130,7 @@ flutter build linux --release
 
 If you'd like to contribute:
 - Fork the project and submit pull requests
-- Report bugs or suggest features via [issues](https://github.com/alfahrelrifananda/toolbox-app/issues)
+- Report bugs or suggest features via [issues](https://github.com/alfahrelrifananda/toolbox/issues)
 - Share feedback or ideas
 - Help with documentation or translations
 
