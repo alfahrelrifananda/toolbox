@@ -804,9 +804,9 @@ class AppStrings {
     'id': 'Gambar berhasil diunduh!',
   });
   static String get exifEraserImageSavedRandom => _t({
-    'en': 'Image saved to "Pictures/Random/"',
-    'de': 'Bild gespeichert unter "Bilder/Random/"',
-    'id': 'Gambar disimpan di "Pictures/Random/"',
+    'en': 'Image saved to "Pictures/Toolbox/"',
+    'de': 'Bild gespeichert unter "Pictures/Toolbox/"',
+    'id': 'Gambar disimpan di "Pictures/Toolbox/"',
   });
   static String get exifEraserImageSavedGallery => _t({
     'en': 'Image saved to gallery!',

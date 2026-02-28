@@ -43,7 +43,6 @@ class ExifEraserHelper {
         }
       }
 
-      // Save to "Random" album only on Android
       if (Platform.isAndroid) {
         await Gal.putImageBytes(
           bytes,
