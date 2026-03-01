@@ -8,7 +8,7 @@ class ExifConstants {
   static const int jpegQuality = 95;
 
   // Android album name
-  static const String androidAlbumName = 'Random';
+  static const String androidAlbumName = 'Toolbox';
 
   // Supported image formats
   static const List<String> supportedFormats = [

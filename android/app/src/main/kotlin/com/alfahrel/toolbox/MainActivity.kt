@@ -16,8 +16,8 @@ import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugin.common.MethodChannel
 
 class MainActivity : FlutterActivity() {
-    private val CHANNEL_TILES = "com.random.app/quick_tiles"
-    private val CHANNEL_BATTERY = "com.random.app/battery_info"
+    private val CHANNEL_TILES = "com.alfahrel.toolbox/quick_tiles"
+    private val CHANNEL_BATTERY = "com.alfahrel.toolbox/battery_info"
     private val CHANNEL_MONET = "telegram_monet/colors"  // NEW CHANNEL
 
     override fun configureFlutterEngine(flutterEngine: FlutterEngine) {

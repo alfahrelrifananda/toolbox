@@ -6,8 +6,8 @@ import 'package:toolbox/utils/language_provider.dart';
 import 'package:dynamic_color/dynamic_color.dart';
 import 'package:provider/provider.dart';
 
-class RandomApp extends StatelessWidget {
-  const RandomApp({super.key});
+class ToolboxApp extends StatelessWidget {
+  const ToolboxApp({super.key});
 
   @override
   Widget build(BuildContext context) {

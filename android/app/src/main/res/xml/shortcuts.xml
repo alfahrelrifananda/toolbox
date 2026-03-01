@@ -9,9 +9,9 @@
     android:shortcutDisabledMessage="@string/shortcut_lock_disabled"
   >
     <intent
-      android:action="com.example.random.LOCK_SCREEN"
-      android:targetPackage="com.example.random"
-      android:targetClass="com.example.random.ShortcutHandlerActivity"
+      android:action="com.alfahrel.toolbox.LOCK_SCREEN"
+      android:targetPackage="com.alfahrel.toolbox"
+      android:targetClass="com.alfahrel.toolbox.ShortcutHandlerActivity"
     />
     <categories android:name="android.shortcut.conversation" />
   </shortcut>

@@ -91,7 +91,7 @@ class CaffeineService : Service() {
     companion object {
         private const val NOTIFICATION_ID = 1001
         private const val CHANNEL_ID = "caffeine_channel"
-        private const val WAKE_LOCK_TAG = "Random:CaffeineWakeLock"
+        private const val WAKE_LOCK_TAG = "Toolbox:CaffeineWakeLock"
     }
     
     private var wakeLock: PowerManager.WakeLock? = null
